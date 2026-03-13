@@ -9,17 +9,17 @@ html {
 Taken From https: http://thepatternlibrary.com/ */
 
 body{
-  background-image: url("kale-salad.jpg");
+  background-image: url("https://www.wallshoppe.com/cdn/shop/products/PolkaDot_pink_F_for_web_ef80f6ad-4ba9-4652-acd7-90351b7f24de.jpg?v=1749702048");
 }
 
 h1,
 h2 {
-  background-color: black ;
+  background-color: #412d2d ;
   color: white;
   width: 500px;
   margin: auto;
   margin-bottom: 5px;
 }
 #myCanvas {
-  border: 1px solid  black;
+  border: 1px solid  rgb(255, 177, 177);
 }
